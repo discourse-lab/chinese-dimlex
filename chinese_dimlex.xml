@@ -11,7 +11,7 @@
       <sem>
         <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession"/>
         <example>我一见到他就讨厌，但不敢则声。</example>
-        <english_equivalent>Once ... then</english_equivalent>
+        <english_equivalent>once ... then ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -26,7 +26,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>意识可具有两方面，一方面是行动或机能，一方面就是内容。</example>
-        <english_equivalent>One aspect One aspect</english_equivalent>
+        <english_equivalent>on one hand ... on the other hand ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -41,12 +41,12 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
         <example>当前，一方面生产增长速度高，另一方面企业产成品积压还很严重，这个问题必须引起重视。</example>
-        <english_equivalent>In one aspect ... in the other aspect</english_equivalent>
+        <english_equivalent>on one hand ... on the other hand ...</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="COMPARISON:Contrast"/>
         <example>文字一方面和语言一样，具有"替社会服务"的性质，另一方面，文字本身还具有些其他的特点。</example>
-        <english_equivalent>In one aspect ... in the other aspect</english_equivalent>
+        <english_equivalent>on one hand ... on the other hand ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -61,7 +61,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Condition:Arg2-as-cond"/>
         <example>各种染色体的结构一旦出现一些较小的不平衡，就可能引起性功能紊乱。</example>
-        <english_equivalent>Once</english_equivalent>
+        <english_equivalent>once</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -76,7 +76,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Condition:Arg2-as-cond"/>
         <example>万一被奶奶看见了，我也得挨批评</example>
-        <english_equivalent>Once...</english_equivalent>
+        <english_equivalent>in case</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -91,7 +91,7 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Contrast"/>
         <example>另一派认为美不是一种客观存在，而是一种意识形态。</example>
-        <english_equivalent>Not ... but</english_equivalent>
+        <english_equivalent>not ... but ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -106,7 +106,7 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Contrast"/>
         <example>这时牛尾巴不是在赶苍蝇、蚊子，却是在赶小鱼、小虾！</example>
-        <english_equivalent>Not ... but</english_equivalent>
+        <english_equivalent>not ... however is ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -121,12 +121,12 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Substitution:Arg2-as-subst"/>
         <example>这些书并不是帝王家谱，而是文化宝藏。</example>
-        <english_equivalent>Rather ... than</english_equivalent>
+        <english_equivalent>rather than ... it is ...</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="COMPARISON:Contrast"/>
         <example>据徐老的夫人廖静文说，悲鸿幼年第一次画的并不是马，而是虎。</example>
-        <english_equivalent>Not ... but</english_equivalent>
+        <english_equivalent>rather than ... it is ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -141,7 +141,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>可是地主不仅不给他治伤，反而痛骂一场把他赶走了。</example>
-        <english_equivalent>Not only no ... but</english_equivalent>
+        <english_equivalent>not only no ... but ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -156,7 +156,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>现代科学技术发展的深度、广度和速度，不仅要求人才具有丰富的知识，更要求他们具有运用知识的高度才能和充沛的精力。</example>
-        <english_equivalent>Not only ... even more</english_equivalent>
+        <english_equivalent>not only ... more so ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -171,7 +171,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>有人担心造不出有世界水平的船舶，不仅赔钱还会丢名誉。</example>
-        <english_equivalent>Not only ... still</english_equivalent>
+        <english_equivalent>not only ... but also ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -186,7 +186,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>法国建设核电站的能力，不仅可满足国内的需要，而且能出口。</example>
-        <english_equivalent>Not only and also</english_equivalent>
+        <english_equivalent>not only ... but also ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -201,7 +201,7 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
         <example>不管怎么做电视广告和搞有奖展销，还是不景气。</example>
-        <english_equivalent>Regardless of ... still</english_equivalent>
+        <english_equivalent>although...still...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -216,7 +216,7 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
         <example>不论什么人，违者必惩。</example>
-        <english_equivalent>Regardless of</english_equivalent>
+        <english_equivalent>regardless of</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -231,7 +231,7 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
         <example>我们不论做任何工作，都不能离开这个根本原则。</example>
-        <english_equivalent>Regardless of ... still</english_equivalent>
+        <english_equivalent>regardless of ... still ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -246,7 +246,7 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Contrast"/>
         <example>寺院的土地和贵族领地，大致相同，不过更复杂些。</example>
-        <english_equivalent>However</english_equivalent>
+        <english_equivalent>however</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -261,7 +261,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Substitution:Arg2-as-subst"/>
         <example>与其今后调整，不如当机立断，现在调整。</example>
-        <english_equivalent>Rather than</english_equivalent>
+        <english_equivalent>rather than ... better ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -276,7 +276,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg2-as-detail"/>
         <example>有感就用诗咏之或以文字记录下来，并且坚持记日记。</example>
-        <english_equivalent>and</english_equivalent>
+        <english_equivalent>also</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -291,7 +291,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
         <example>李与芳结婚五年，未有一男半女，为此十分苦恼。</example>
-        <english_equivalent>For that</english_equivalent>
+        <english_equivalent>for that</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -306,7 +306,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Purpose:Arg2-as-goal"/>
         <example>他为了积累生活素材和丰富自己的知识，常常把看到的带有典型事物的记下来。</example>
-        <english_equivalent>In order to</english_equivalent>
+        <english_equivalent>in order to</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -321,7 +321,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Equivalence"/>
         <example>其中有１９个大姓的人口占了５５．６％，也就是说，全国约有一半人口使用１９个姓氏。</example>
-        <english_equivalent>That is to say</english_equivalent>
+        <english_equivalent>which is</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -336,7 +336,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Instantiation:Arg2-as-instance"/>
         <example>事实上，小孩子在成人之前，至少有三分之二的时间是在家里度过的。</example>
-        <english_equivalent>In fact</english_equivalent>
+        <english_equivalent>in fact</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -351,7 +351,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
         <example>两人结识后，非常谈得来，于是在草桥亭拜为兄弟。</example>
-        <english_equivalent>So</english_equivalent>
+        <english_equivalent>therefore</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -384,7 +384,7 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
         <example>街道上仍然没有一丝儿风，跟白昼一样的闷热。/ 到了永乐初年，情况仍未好转。</example>
-        <english_equivalent>still</english_equivalent>
+        <english_equivalent>yet</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -414,7 +414,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Purpose:Arg2-as-goal"/>
         <example>科学工作者不断地用各种方法测量它，以期得到更精确的数值。</example>
-        <english_equivalent>so that</english_equivalent>
+        <english_equivalent>so as to</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -465,12 +465,12 @@
       <sem>
         <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
         <example>自从第一颗人造卫星上天以来，全世界已经发射了三千五百多个航天器。/ 从十月份以来，每逢星期日，分包到户突击抢修。</example>
-        <english_equivalent>Since</english_equivalent>
+        <english_equivalent>ever since ...</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
         <example>我国自有书法与绘画艺术以来，就有了评论。</example>
-        <english_equivalent>Since</english_equivalent>
+        <english_equivalent>ever since ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -491,12 +491,12 @@
       <sem>
         <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession"/>
         <example>自从放寒假时见到过她以后，再也没见过。/ 从美术学院毕业以后，他先后在几所私立美术学校教书，也曾为一家木偶剧团绘过布景。</example>
-        <english_equivalent>Since then</english_equivalent>
+        <english_equivalent>... since then</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession"/>
         <example>中国的政治势力自班超得胜以后，便已扩充到葱岭以西去了。</example>
-        <english_equivalent>Since then</english_equivalent>
+        <english_equivalent>... since then</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -511,7 +511,7 @@
       <sem>
         <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
         <example>自此，卡尼基便赢得美国首席音乐殿堂的美名，历经百年而不衰。</example>
-        <english_equivalent>Afterward</english_equivalent>
+        <english_equivalent>afterwards</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -562,7 +562,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Instantiation:Arg2-as-instance"/>
         <example>市内的交通车，例如纽约的地铁，老人一张票可以来回，不需另买。</example>
-        <english_equivalent>For example</english_equivalent>
+        <english_equivalent>for example</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -580,7 +580,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Instantiation:Arg2-as-instance"/>
         <example>在后方的工作人员每天志愿地减少口粮，比如原定量一斤的减至八两。/  要是对方的外在条件突然发生了变化，比如说，变丑了呢？</example>
-        <english_equivalent>For example</english_equivalent>
+        <english_equivalent>for example</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -595,7 +595,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Condition:Arg2-as-cond"/>
         <example>普通应酬应酬是可以，假使正式商量一件事，就有点困难。</example>
-        <english_equivalent>in case</english_equivalent>
+        <english_equivalent>supposed</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -610,7 +610,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Condition+SpeechAct"/>
         <example>假如除去一切个性，还有什么共性呢？</example>
-        <english_equivalent>If</english_equivalent>
+        <english_equivalent>if</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -625,7 +625,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg2-as-detail"/>
         <example>哦，对我们来说，要学会几种外星球语言是十分轻松的事，再说，我并不是第一次到你们地球来。</example>
-        <english_equivalent>And again</english_equivalent>
+        <english_equivalent>what's more</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -660,7 +660,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Equivalence"/>
         <example>从１７８９年起，应该是进入了近代史第一时期的第二阶段，即资本主义的机器生产阶段。</example>
-        <english_equivalent>that is</english_equivalent>
+        <english_equivalent>which is</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -675,7 +675,7 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
         <example>即使父子交往，经济是经济，父子是父子。</example>
-        <english_equivalent>that is</english_equivalent>
+        <english_equivalent>even if</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -690,7 +690,7 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
         <example>即使你的家庭很富裕，也不应忽视这一点。</example>
-        <english_equivalent>Even if</english_equivalent>
+        <english_equivalent>even if ... also ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -705,7 +705,7 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Concession+SpeechAct:Arg1-as-denier+SpeechAct"/>
         <example>即便还不够完善，可以先干起来，怎么样？</example>
-        <english_equivalent>Even if</english_equivalent>
+        <english_equivalent>even if</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -720,7 +720,7 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
         <example>即便是一个科学性的课题，也不见得具有研究的价值。</example>
-        <english_equivalent>Even if</english_equivalent>
+        <english_equivalent>even if ... also ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -755,7 +755,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>他越早知道，我们就越早甩掉这个案子</example>
-        <english_equivalent>more... more...</english_equivalent>
+        <english_equivalent>the more ... the more ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -770,7 +770,7 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Contrast"/>
         <example>会议后期，史密斯却主动在休息室里找周总理的翻译寒喧聊天。</example>
-        <english_equivalent>But/however</english_equivalent>
+        <english_equivalent>but</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -785,7 +785,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>他们一次次地进行反抗，又一次次地遭到罗马人残酷镇压。</example>
-        <english_equivalent>and/also</english_equivalent>
+        <english_equivalent>also</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -800,7 +800,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>你到食品店糖果柜前，一定会发现形状各异、包装不同的泡泡糖，另外还有口香糖。</example>
-        <english_equivalent>Also</english_equivalent>
+        <english_equivalent>additionally</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -815,7 +815,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Condition+SpeechAct"/>
         <example>只要团组织搞活动，需要多少拨给多少。</example>
-        <english_equivalent>if only</english_equivalent>
+        <english_equivalent>as long as</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -830,7 +830,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Condition:Arg2-as-cond"/>
         <example>只要你仔细观察艺术文化的全部历史，就不难看出，各种艺术的发展总是不平衡的。</example>
-        <english_equivalent>if only ... then</english_equivalent>
+        <english_equivalent>as long as ... then ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -845,7 +845,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Condition+SpeechAct"/>
         <example>其它城市似乎尚不具备战胜北京与悉尼两市的能力，只有看将来的发展了。</example>
-        <english_equivalent>Only then</english_equivalent>
+        <english_equivalent>only if</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -860,7 +860,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Condition:Arg2-as-cond"/>
         <example>一个企业，只有对质量进行全面的管理，才可能使产品质量获得提高。</example>
-        <english_equivalent>only if ... then</english_equivalent>
+        <english_equivalent>only if ... then...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -878,7 +878,7 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Contrast"/>
         <example>本来砍白菜是轻活，可是对外行并不轻松。/ “温故知新”本来是普通的常识；可在我，这次好象是第一次知道了这句话。</example>
-        <english_equivalent>But</english_equivalent>
+        <english_equivalent>but</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -896,7 +896,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>卡尔纳普一方面积极地参加讨论，同时又认真地倾听反对者的意见。</example>
-        <english_equivalent>Also/at the same time</english_equivalent>
+        <english_equivalent>at the same time</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -911,7 +911,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Equivalence"/>
         <example>中央需要它，地方也同样需要它。</example>
-        <english_equivalent>The same</english_equivalent>
+        <english_equivalent>similarly</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -926,7 +926,7 @@
       <sem>
         <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
         <example>他先学会沉默，后来又学会抽烟。</example>
-        <english_equivalent>Later</english_equivalent>
+        <english_equivalent>later</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -941,7 +941,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Cause:Reason"/>
         <example>他们的身份都是领主，因为他们都占有领地。</example>
-        <english_equivalent>Because</english_equivalent>
+        <english_equivalent>because</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -956,7 +956,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Cause+Belief:Reason+Belief"/>
         <example>因为动物的生活习性各不相同，所以捕捉它们的方法也各不相同。</example>
-        <english_equivalent>Because ... so</english_equivalent>
+        <english_equivalent>because ... so ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -971,7 +971,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Cause+Belief:Reason+Belief"/>
         <example>我们之所以说马克思主义哲学是实践唯物主义，是因为马克思主义哲学是以实践为首要和基本观点的唯物主义</example>
-        <english_equivalent>The reason why ... is because...</english_equivalent>
+        <english_equivalent>the reason why ... is because...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -986,7 +986,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Cause+Belief:Reason+Belief"/>
         <example>美学必须结合文艺作品来研究，所以它历来是文艺批评的附庸。</example>
-        <english_equivalent>So</english_equivalent>
+        <english_equivalent>so</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1001,7 +1001,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Cause+Belief:Reason+Belief"/>
         <example>这项比赛世界上许多国家的选手水平都很高，因此排名顺序偶然性很大。</example>
-        <english_equivalent>so</english_equivalent>
+        <english_equivalent>as a result</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1016,7 +1016,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Cause+SpeechAct:Result+SpeechAct"/>
         <example>低年级的儿童，常常以教师为自己的榜样，因而，在言语和行动方面都要注意对孩子们的影响。</example>
-        <english_equivalent>Thus</english_equivalent>
+        <english_equivalent>as a result</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1034,7 +1034,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Condition:Arg2-as-cond"/>
         <example>如果没有领导作风上的进步，这样大的成绩是不可能的。/ 如果用友谊的量杯测定一下的话，他们的友谊算是程度高的。</example>
-        <english_equivalent>If</english_equivalent>
+        <english_equivalent>if</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1049,7 +1049,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Condition:Arg2-as-cond"/>
         <example>如果“天堂”象征快乐，“地狱”就象征痛苦。</example>
-        <english_equivalent>If ... then</english_equivalent>
+        <english_equivalent>if ... then ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1064,7 +1064,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Condition:Arg2-as-cond"/>
         <example>如果人们在真理面前已经平等了，那么这一口号也就失去了意义。</example>
-        <english_equivalent>As in the case of (if ... then)</english_equivalent>
+        <english_equivalent>if ... then...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1079,7 +1079,7 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Contrast"/>
         <example>然而，欧阳老的老伴是惶惑的，尽管脸上挂着笑。</example>
-        <english_equivalent>Although</english_equivalent>
+        <english_equivalent>athough</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1097,7 +1097,7 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Contrast"/>
         <example>尽管每天累得腰酸背疼，但大家总是乐哈哈的，歌儿不离嘴。</example>
-        <english_equivalent>Although ... but</english_equivalent>
+        <english_equivalent>although ... but ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1112,7 +1112,7 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Contrast"/>
         <example>尽管陆老师的声调并没有什么变化，他仍然听得出来，陆老师是生气了</example>
-        <english_equivalent>Although ... still</english_equivalent>
+        <english_equivalent>although ... still ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1130,7 +1130,7 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Contrast"/>
         <example>尽管这样，大家还是嫌他馋嘴。/尽管他们文化水平低，还是一步一个脚印成长起来。</example>
-        <english_equivalent>Although still</english_equivalent>
+        <english_equivalent>although ... still ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1148,7 +1148,7 @@
       <sem>
         <pdtb3_relation sense="TEMPORAL:Synchronous"/>
         <example>当他们发现被洪水围困时，已经无法撤离了。</example>
-        <english_equivalent>when</english_equivalent>
+        <english_equivalent>when ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1166,7 +1166,7 @@
       <sem>
         <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession"/>
         <example>当她长大后，父亲觉得她与居里夫人越来越格格不入。</example>
-        <english_equivalent>When after</english_equivalent>
+        <english_equivalent>after ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1184,12 +1184,12 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Instantiation:Arg1-as-instance"/>
         <example>读者可以研究一下这篇即兴的口头作文，内容并不实在，说话喜欢夸张，用词不够准确、周密，总之，可以挑剔的毛病不少。</example>
-        <english_equivalent>In conclusion</english_equivalent>
+        <english_equivalent>in summary</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg1-as-detail"/>
         <example>突然之间，我不再是教授，而是女教授；不再是作家，而是女作家；不再是博士，而是女傅士，总而言之，被人发现正身之后，我就不再是个"人"，而是个"女人"。</example>
-        <english_equivalent>In conclusion</english_equivalent>
+        <english_equivalent>in summary</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1207,7 +1207,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>若有人当场现身说法，道出自己的苦情，或者讲出自己新式家庭的幸福，更能教育人。/那些至今还没有做好的，便是对于揭露错误做得不彻底，或做得不适当。</example>
-        <english_equivalent>Alternatively ... or</english_equivalent>
+        <english_equivalent>or</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1222,7 +1222,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Equivalence"/>
         <example>生物只有适应环境才能生存，换句话说，自然界中的每种生物对环境都有一定的适应性，否则早就被环境淘汰了。</example>
-        <english_equivalent>In other words</english_equivalent>
+        <english_equivalent>in other words</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1237,7 +1237,7 @@
       <sem>
         <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
         <example>第一口探井喷出了原油，接着，又有几口探井相继出油了。</example>
-        <english_equivalent>Then</english_equivalent>
+        <english_equivalent>afterwards</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1252,7 +1252,7 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
         <example>无论机器人怎么像人，它身上的有些部位还不是那么完美的。</example>
-        <english_equivalent>whether</english_equivalent>
+        <english_equivalent>regardless of</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1267,7 +1267,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Condition:Arg2-as-cond"/>
         <example>无论是专业的还是业余的画家，几乎都为这些习作的艺术魅力所折服。</example>
-        <english_equivalent>No matter what ... it will</english_equivalent>
+        <english_equivalent>regardless of ... still ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1282,7 +1282,7 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
         <example>无论谁的......也不应该呀！</example>
-        <english_equivalent>No matter what ... it will</english_equivalent>
+        <english_equivalent>regardless of ... still ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1297,7 +1297,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>所以这种微妙关系既没有定性的内涵，又没有实际存在的意义。</example>
-        <english_equivalent>both...and</english_equivalent>
+        <english_equivalent>both ... and ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1315,7 +1315,7 @@
       <sem>
         <pdtb3_relation sense="TEMPORAL:Synchronous"/>
         <example>期间，军队的防疫工作成绩尤为突出。/ 我在访问北京师范大学附属第二小学期间，和那里的学生们成了亲密的朋友。/ 在此期间，她利用职权，非法收受、索要贿赂总额达人民币１９万余元。</example>
-        <english_equivalent>in the meanwhile</english_equivalent>
+        <english_equivalent>meanwhile</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1330,7 +1330,7 @@
       <sem>
         <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession"/>
         <example>此前，我们在朦胧诗中，谁也没料到，这浴池竟是男女共用的。</example>
-        <english_equivalent>Previously</english_equivalent>
+        <english_equivalent>previously</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1345,7 +1345,7 @@
       <sem>
         <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
         <example>此后，该地区虽有冲突发生，但规模较小。</example>
-        <english_equivalent>Thereafter</english_equivalent>
+        <english_equivalent>thereafter</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1363,7 +1363,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>此外，某些树木的叶子还能挥发出杀菌物质──杀菌素。/ 除此之外，艺术家还常使用铁木、红木和金木等。</example>
-        <english_equivalent>In addition</english_equivalent>
+        <english_equivalent>in addition</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1378,7 +1378,7 @@
       <sem>
         <pdtb3_relation sense="TEMPORAL:Synchronous"/>
         <example>每当有这样的事情发生，他就急得像孩子似地哭了。</example>
-        <english_equivalent>Whenever</english_equivalent>
+        <english_equivalent>whenever</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1393,7 +1393,7 @@
       <sem>
         <pdtb3_relation sense="TEMPORAL:Synchronous"/>
         <example>每逢端午佳节，人们以划龙舟、包粽子来纪念他。</example>
-        <english_equivalent>Every time</english_equivalent>
+        <english_equivalent>every time</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1408,12 +1408,12 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Contrast"/>
         <example>黄金的价格虽然也有高涨的可能性，然而不像白银那样大。</example>
-        <english_equivalent>However</english_equivalent>
+        <english_equivalent>however</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
         <example>这是一个小而美丽的国家，这里有丰富的物产资源和富有创造力的人才，然而，另塞拉利昂声明狼藉的是90年代那场长达10年的战乱。</example>
-        <english_equivalent>However</english_equivalent>
+        <english_equivalent>however</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1428,7 +1428,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Cause:Reason"/>
         <example>由于加斯贝利政府片面地努力增加它和美国之间的贸易，结果把意大利的经济引到了毁灭和破产的境地。</example>
-        <english_equivalent>Due to</english_equivalent>
+        <english_equivalent>due to</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1443,7 +1443,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Cause:Reason"/>
         <example>由于帝国主义国家都无力独自霸占中国，于是先后同意了美国的这项政策。</example>
-        <english_equivalent>As a result So</english_equivalent>
+        <english_equivalent>due to ... thereupon ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1458,7 +1458,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Cause:Reason"/>
         <example>由于濒临海湾，又盛产石油，因此有"油海七珍"之称。</example>
-        <english_equivalent>Due to the fact that the</english_equivalent>
+        <english_equivalent>due to ... as a result ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1473,7 +1473,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Cause:Reason"/>
         <example>由于当时印章使用的范围仅限于政权机构，所以数量不多。</example>
-        <english_equivalent>As a result Therefore</english_equivalent>
+        <english_equivalent>due to ... so ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1488,12 +1488,12 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>一位令人尊敬的影评界权威，先是满意地点点头，继而又微微摇了摇头。</example>
-        <english_equivalent>and then</english_equivalent>
+        <english_equivalent>then</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
         <example>微生物和毒素蓄积最多的地方发生炎性脓性滤出，继而形成脓肿或脓液溶解。</example>
-        <english_equivalent>and then</english_equivalent>
+        <english_equivalent>then</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1508,7 +1508,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>我们是第一次独立参加奥运会，本身就是一个胜利，至于成绩我们没有作更多的考虑。</example>
-        <english_equivalent>As for the</english_equivalent>
+        <english_equivalent>as for</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1523,7 +1523,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>至于直接用"伦理学"作学科名称，则是近代的事情。</example>
-        <english_equivalent>As for</english_equivalent>
+        <english_equivalent>as for ... then ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1538,7 +1538,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Condition+SpeechAct"/>
         <example>水晶宫里的珍宝，倘若被掏空了，叫我如何去向玉帝交账？</example>
-        <english_equivalent>What if</english_equivalent>
+        <english_equivalent>if</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1553,7 +1553,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Condition:Arg2-as-cond"/>
         <example>我心里在想，若是妈妈知道了，心里不知道是什么滋味，可怜的妈妈！</example>
-        <english_equivalent>If</english_equivalent>
+        <english_equivalent>if</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1568,7 +1568,7 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
         <example>他有一首《长笛、竖琴二重协奏曲》，听时也有此体验，虽然此曲并不受人重视。</example>
-        <english_equivalent>Although</english_equivalent>
+        <english_equivalent>although</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1586,7 +1586,7 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
         <example>在人的视野之外的自然界，虽然存在，但对人来说毫无意义。</example>
-        <english_equivalent>Although but</english_equivalent>
+        <english_equivalent>although ... but ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1604,7 +1604,7 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
         <example>我们最怀念春天和夏天，那时候，虽然忙碌极了，可是真痛快。</example>
-        <english_equivalent>Although However</english_equivalent>
+        <english_equivalent>although ... however ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1619,7 +1619,7 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
         <example>许多人虽然也想学一学，却找不到老师，找不到教材。</example>
-        <english_equivalent>Although</english_equivalent>
+        <english_equivalent>although ... however ...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1634,7 +1634,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>除阜丰面粉公司外，还有下述几家面粉厂值得注意。</example>
-        <english_equivalent>Moreover/what’s more</english_equivalent>
+        <english_equivalent>in addition</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1669,7 +1669,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Cause:Reason"/>
         <example>鉴于物质系统的组成有着不同的层次，因而与组成的层次相对应，物质系统的结构也是分层次的。</example>
-        <english_equivalent>In view of</english_equivalent>
+        <english_equivalent>given that</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1687,12 +1687,12 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>我国银行信贷资金的来源，除了吸收上述各种存款之外，还有国家财政上的节余。</example>
-        <english_equivalent>In addition to</english_equivalent>
+        <english_equivalent>except for</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="EXPANSION:Exception:Arg1-as-excpt"/>
         <example>岛上除了一部分较高的地方，已全部上了水。</example>
-        <english_equivalent>In addition to</english_equivalent>
+        <english_equivalent>except</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1722,7 +1722,7 @@
       <sem>
         <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
         <example>因为时候已不早了，先在张先生家里吃过饭，请他解释正在应用的导生制的新教学法，随后再去参观传习处游戏场托儿所等处。</example>
-        <english_equivalent>Subsequently</english_equivalent>
+        <english_equivalent>subsequently</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1737,7 +1737,7 @@
       <sem>
         <pdtb3_relation sense="TEMPORAL:Synchronous"/>
         <example>随着商业的繁荣，兴起于南朝时期的邸店这时也有空前发展。</example>
-        <english_equivalent>Along with</english_equivalent>
+        <english_equivalent>with</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1752,12 +1752,12 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>首先，人类的认识能力受遗传局限性的制约。</example>
-        <english_equivalent>Firstly Secondly</english_equivalent>
+        <english_equivalent>firstly</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
         <example>双方应首先商定议题，再确定参会人员数量。</example>
-        <english_equivalent>Firstly Secondly</english_equivalent>
+        <english_equivalent>firstly</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1772,12 +1772,12 @@
       <sem>
         <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
         <example>而我们在这方面显然重视不够，首先是引进不够，其次是引进之后的消化不够。</example>
-        <english_equivalent>Subsequently</english_equivalent>
+        <english_equivalent>subsequently</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>就这些论著内容来看，以论述春秋战国时期的经济思想最多，其次就是论述明末清初和近代的。</example>
-        <english_equivalent>Secondly</english_equivalent>
+        <english_equivalent>subsequently</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1792,17 +1792,17 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
         <example>许多人为了想迅速解决身份问题而办理假结婚，最后却弄得倾家荡产。</example>
-        <english_equivalent>Finally</english_equivalent>
+        <english_equivalent>finally</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>最后，经审查符合结婚条件，应即准予登记，发给结婚证。</example>
-        <english_equivalent>Finally</english_equivalent>
+        <english_equivalent>finally</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
         <example>他们经过考虑，最后回答："自己修理！"</example>
-        <english_equivalent>Finally</english_equivalent>
+        <english_equivalent>finally</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1820,7 +1820,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>美帝国主义不但占领意大利而将其变为军事基地，并且违反和约而重建意大利的军队。</example>
-        <english_equivalent>Not only</english_equivalent>
+        <english_equivalent>not only</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1835,7 +1835,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>意大利反动政府不但非法地增加其空军的数量，而且还在扩大现有的和建筑新的飞机场。</example>
-        <english_equivalent>Not only</english_equivalent>
+        <english_equivalent>not only...but also...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1850,7 +1850,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>贝多芬也深赏此作，不但演奏过，还配了华彩乐段。</example>
-        <english_equivalent>Not only</english_equivalent>
+        <english_equivalent>not only...but also...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1865,7 +1865,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>他的水平和他的风度，不但令听者折服，更令自己折服！</example>
-        <english_equivalent>Not only</english_equivalent>
+        <english_equivalent>not only...more over...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1880,7 +1880,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>不但对对象的性格特征没有了解，甚至连一言一语也未交谈过，与其说是体验生活，倒不如说是实习摄影恰当些。</example>
-        <english_equivalent>Not only</english_equivalent>
+        <english_equivalent>not only...even...</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1895,7 +1895,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Negative-Condition:Arg1-as-negcond"/>
         <example>这就是告诉你要想办法减低成本，不然就要提高产品售价。</example>
-        <english_equivalent>Otherwise</english_equivalent>
+        <english_equivalent>otherwise</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1910,12 +1910,12 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Cause:NegResult"/>
         <example>这故事太悲惨了，以至于人们听了以后，都好一会儿没有说话。</example>
-        <english_equivalent>so much so that</english_equivalent>
+        <english_equivalent>so that</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
         <example>自古以来人们都是靠星光来确定星体的存在位置，可是，黑洞的引力场这样强，以至于连光线都被吸入内部，因此只能依靠一些间接的观测事实来证实黑洞的存在。</example>
-        <english_equivalent>so much so that</english_equivalent>
+        <english_equivalent>so that</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1930,7 +1930,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>成人尚往往崇拜自由而不服从上面人的命令，何况喜欢活动的儿童。</example>
-        <english_equivalent>What's more</english_equivalent>
+        <english_equivalent>not to mention</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1945,17 +1945,17 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
         <example>文化圈许多人早对他的劣迹耳闻目睹，只是由于透明度不高，更多的人在假象的迷惑之中。</example>
-        <english_equivalent>Just</english_equivalent>
+        <english_equivalent>just</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="COMPARISON:Concession+SpeechAct:Arg2-as-denier+SpeechAct"/>
         <example>人生任何阶段做什么事情，都可以让目标清楚，只是我建议各位要多付出一点点。</example>
-        <english_equivalent>Just</english_equivalent>
+        <english_equivalent>just</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="EXPANSION:Substitution:Arg2-as-subst"/>
         <example>我感动得不知说什么才好，只是紧紧地握着他的小手。</example>
-        <english_equivalent>Just</english_equivalent>
+        <english_equivalent>just</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1970,7 +1970,7 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Negative-Condition:Arg1-as-negcond"/>
         <example>在这两个环境中流动的人，你就得按照他们各自的习惯行事，否则就可能闹出笑话。</example>
-        <english_equivalent>Otherwise</english_equivalent>
+        <english_equivalent>otherwise</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2005,7 +2005,7 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Similarity"/>
         <example>欢快的歌声把我从沉思中唤醒，看到眼前的一切，如同置身于一个金灿灿的世界。</example>
-        <english_equivalent>as with</english_equivalent>
+        <english_equivalent>just as</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2035,7 +2035,7 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
         <example>就算你把银箱打捞上来，还不是落在那个恶棍的手中？</example>
-        <english_equivalent>Even if</english_equivalent>
+        <english_equivalent>even if</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2050,7 +2050,7 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
         <example>就算叫我买架新的赔上，也用不上挨这么顿骂。</example>
-        <english_equivalent>Even if</english_equivalent>
+        <english_equivalent>even if</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2065,7 +2065,7 @@
       <sem>
         <pdtb3_relation sense="TEMPORAL:Synchronous"/>
         <example>这说明，当时铁器的发展还处于初期阶段，还没有在农业生产中取得支配的地位。</example>
-        <english_equivalent>At the time</english_equivalent>
+        <english_equivalent>at that time</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2080,22 +2080,22 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
         <example>正确的辨别情绪，是可以救命的，当然这是个比较极端的例子。</example>
-        <english_equivalent>Of course</english_equivalent>
+        <english_equivalent>of course</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
         <example>求他别再让我做那些体能训练了。 当然我没有得逞。</example>
-        <english_equivalent>Of course</english_equivalent>
+        <english_equivalent>of course</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="COMPARISON:Concession+SpeechAct:Arg2-as-denier+SpeechAct"/>
         <example>有的时候它看起来很大，有的时候很小，但是它始终在我身边。当然我不是试图贬低人与逆境做斗争的价值和意义。</example>
-        <english_equivalent>Of course</english_equivalent>
+        <english_equivalent>of course</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="COMPARISON:Contrast"/>
         <example>三个月的实验结束的时候，这群学生的表现已经相当于A等生了。当然这个案例也有其令人心寒的一面，那就是，那些本应该归为A等的学生被告知他们是D等学生。</example>
-        <english_equivalent>Of course</english_equivalent>
+        <english_equivalent>of course</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2110,17 +2110,17 @@
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Cause:Reason"/>
         <example>既然扶明寄托着那么大的希望，我就跟他上医学院去了。</example>
-        <english_equivalent>Since</english_equivalent>
+        <english_equivalent>since</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Cause+SpeechAct:Reason+SpeechAct"/>
         <example>是不是可以尝试用一种不同的角度来看它呢？既然我们没有选择。</example>
-        <english_equivalent>Since</english_equivalent>
+        <english_equivalent>since</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Condition:Arg2-as-cond"/>
         <example>要从我第一次走进学校开始讲起。既然要讲教育。</example>
-        <english_equivalent>Since</english_equivalent>
+        <english_equivalent>since</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2135,7 +2135,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Instantiation:Arg2-as-instance"/>
         <example>数字很抽象，比方说这一串数字１０９３８５６７５４１６你知道是什么？</example>
-        <english_equivalent>For example</english_equivalent>
+        <english_equivalent>for example</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2150,27 +2150,27 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
         <example>就直直飞起来了，然后气窗在那边。</example>
-        <english_equivalent>Then</english_equivalent>
+        <english_equivalent>then</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
         <example>循环系有了心脏，然后能够一面集中血液，一面分配血液，以完成循环作用。</example>
-        <english_equivalent>Then</english_equivalent>
+        <english_equivalent>then</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>只有实践参加者在理论上的一个一个小的突破，然后才会有集大成者的重大突破。</example>
-        <english_equivalent>Then</english_equivalent>
+        <english_equivalent>then</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
         <example>你们可以想想看三件你不喜欢的事情，然后设法动手去改变。</example>
-        <english_equivalent>Then</english_equivalent>
+        <english_equivalent>then</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession"/>
         <example>教他将线球的一端系在迷宫的入口处，然后带着剑，一边放线一边向曲折迷离的迷宫中心走去。</example>
-        <english_equivalent>Then</english_equivalent>
+        <english_equivalent>then</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2185,12 +2185,12 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>今天，成千上万的儿童，甚至从四五岁开始，就被家长投进竞争的漩涡。</example>
-        <english_equivalent>Even</english_equivalent>
+        <english_equivalent>even</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>他还节衣缩食购买碑帖等，甚至买下了原为清朝达官端方所私的珍品。</example>
-        <english_equivalent>Even</english_equivalent>
+        <english_equivalent>even</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2205,7 +2205,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Substitution:Arg2-as-subst"/>
         <example>虽然这样，任何困难都没有把我们难住吓倒，相反，我们是战胜困难向前进的。</example>
-        <english_equivalent>On the contrary</english_equivalent>
+        <english_equivalent>on the contrary</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2220,17 +2220,17 @@
       <sem>
         <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
         <example>后来解下来，穿上了一只，另一只又忘记了，结果那天早上只穿了一只袜子。</example>
-        <english_equivalent>Results</english_equivalent>
+        <english_equivalent>as a result</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="COMPARISON:Contrast"/>
         <example>由于加斯贝利政府片面地努力增加它和美国之间的贸易，结果把意大利的经济引到了毁灭和破产的境地。</example>
-        <english_equivalent>Results</english_equivalent>
+        <english_equivalent>as a result</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
         <example>我们不断地演练，反复地练习，结果真的有一次，他们又吵架了。</example>
-        <english_equivalent>Results</english_equivalent>
+        <english_equivalent>as a result</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2245,12 +2245,12 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>至于那不勒斯这个名城早已变成了一个最大的军事基地，而且美国人在那里成立了海军指挥部。</example>
-        <english_equivalent>And</english_equivalent>
+        <english_equivalent>besides</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>他们不仅提炼了一些重要的伦理学范畴，而且阐释了一些重要的伦理学问题。</example>
-        <english_equivalent>And</english_equivalent>
+        <english_equivalent>besides</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2265,12 +2265,12 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg1-as-detail"/>
         <example>这样不敢触动官僚地主以及争取和他们合作的做法，正表明他没有改变地主阶级立场。</example>
-        <english_equivalent>This way</english_equivalent>
+        <english_equivalent>in this way</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg2-as-detail"/>
         <example>家和和睦睦的夫妻，还要上级来"决定"离不离婚，这样做显然是和政策不符的。</example>
-        <english_equivalent>This way</english_equivalent>
+        <english_equivalent>in this way</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2288,7 +2288,7 @@
       <sem>
         <pdtb3_relation sense="TEMPORAL:Synchronous"/>
         <example>那时家家有余粮，户户有存款。</example>
-        <english_equivalent>At that time</english_equivalent>
+        <english_equivalent>at that time</english_equivalent>
       </sem>
     </syn>
   </entry>
