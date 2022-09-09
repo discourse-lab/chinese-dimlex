@@ -39,12 +39,12 @@
     <syn>
       <cat>cco</cat>
       <sem>
-        <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+        <pdtb3_relation sense="COMPARISON:Contrast"/>
         <example>当前，一方面生产增长速度高，另一方面企业产成品积压还很严重，这个问题必须引起重视。</example>
         <english_equivalent>on one hand ... on the other hand ...</english_equivalent>
       </sem>
       <sem>
-        <pdtb3_relation sense="COMPARISON:Contrast"/>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>文字一方面和语言一样，具有"替社会服务"的性质，另一方面，文字本身还具有些其他的特点。</example>
         <english_equivalent>on one hand ... on the other hand ...</english_equivalent>
       </sem>
@@ -276,7 +276,7 @@
       <sem>
         <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg2-as-detail"/>
         <example>有感就用诗咏之或以文字记录下来，并且坚持记日记。</example>
-        <english_equivalent>also</english_equivalent>
+        <english_equivalent>and</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -545,7 +545,7 @@
     <syn>
       <cat>cco</cat>
       <sem>
-        <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+        <pdtb3_relation sense="COMPARISON:Contrast"/>
         <example>那时候，钢琴还是种新兴乐器，刚刚取代了古钢琴的地位，但是尚未发育成熟。/  门德尔松的"平衡"虽然有"复古"的迹象，但本质不同于先辈。</example>
         <english_equivalent>but</english_equivalent>
       </sem>
@@ -1203,7 +1203,7 @@
       </orth>
     </orths>
     <syn>
-      <cat>adv</cat>
+      <cat>cco</cat>
       <sem>
         <pdtb3_relation sense="EXPANSION:Conjunction"/>
         <example>若有人当场现身说法，道出自己的苦情，或者讲出自己新式家庭的幸福，更能教育人。/那些至今还没有做好的，便是对于揭露错误做得不彻底，或做得不适当。</example>
