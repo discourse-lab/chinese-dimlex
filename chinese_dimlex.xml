@@ -2292,4 +2292,1374 @@
       </sem>
     </syn>
   </entry>
+<entry id="c138" word="﻿便">
+    <orths>
+      <orth type="cont" canonical="1" onr="1o1">
+        <part type="single">﻿便</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession"/>
+        <example>这些无家可归的人，清除了洞内残存的枯骨，便居住下来。</example>
+        <english_equivalent>then</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c139" word="不单">
+    <orths>
+      <orth type="cont" canonical="1" onr="2o1">
+        <part type="single">不单</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+        <example>他与自己所熟知的乏味的生活一刀两断，他的离去不单是不敬，更是叛逆。</example>
+        <english_equivalent>not merely</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c140" word="不管">
+    <orths>
+      <orth type="cont" canonical="1" onr="3o1">
+        <part type="single">不管</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
+        <example>世上没有那么愚蠢的小国，不管美国如何尽力把别国的领导人描述成疯子。</example>
+        <english_equivalent>no matter</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c141" word="不光">
+    <orths>
+      <orth type="cont" canonical="1" onr="4o1">
+        <part type="single">不光</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+        <example>要是有辆坦克，我不光会在里面，我可能还是那门口查证件的保镖。</example>
+        <english_equivalent>not only</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c142" word="不仅仅">
+    <orths>
+      <orth type="cont" canonical="1" onr="5o1">
+        <part type="single">不仅仅</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+        <example>外汇储备的最优化管理，不仅仅是一个适度规模的问题。</example>
+        <english_equivalent>not only</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c143" word="不仅如此">
+    <orths>
+      <orth type="cont" canonical="1" onr="6o1">
+        <part type="single">不仅如此</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+        <example>有教无类法案出台后，学校令人担忧的表现便公之于众，不仅如此，政府愚笨别扭的政策也同样暴露无遗。</example>
+        <english_equivalent>not only that</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c144" word="不如">
+    <orths>
+      <orth type="cont" canonical="1" onr="7o1">
+        <part type="single">不如</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Substitution:Arg2-as-subst"/>
+        <example>数字技术那么复杂，弄不好要担风险，不如用老办法保险。</example>
+        <english_equivalent>rather</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c145" word="从此">
+    <orths>
+      <orth type="cont" canonical="1" onr="8o1">
+        <part type="single">从此</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="8o2">
+        <part type="single">从此以后</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession"/>
+        <example>这个眼看就要获得全胜，从此在全美洲家喻户晓的人物，如今却做了俘虏。</example>
+        <english_equivalent>since then</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c146" word="而">
+    <orths>
+      <orth type="cont" canonical="1" onr="9o1">
+        <part type="single">而</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast"/>
+        <example>出席这个舞会应该每个人都穿礼服，而你今天却穿了条牛仔裤和体恤衫。</example>
+        <english_equivalent>however</english_equivalent>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+        <example>不能带她出海，她是个侏儒没错，但她同时也是个女人，而带女人上船会招致厄运。</example>
+        <english_equivalent>and</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c147" word="而后">
+    <orths>
+      <orth type="cont" canonical="1" onr="10o1">
+        <part type="single">而后</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Succession"/>
+        <example>他也不吭声，一个人把整整一盘肉都消灭干净，而后起身就走。</example>
+        <english_equivalent>after that</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c148" word="反而">
+    <orths>
+      <orth type="cont" canonical="1" onr="11o1">
+        <part type="single">反而</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Substitution:Arg2-as-subst"/>
+        <example>她收到花后似乎一点也不高兴，反而生气的把它扔到垃圾桶里。</example>
+        <english_equivalent>instead</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c149" word="反之">
+    <orths>
+      <orth type="cont" canonical="1" onr="12o1">
+        <part type="single">反之</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Exception:Arg1-as-excpt"/>
+        <example>如果点击量呈上升趋势，就用绿箭头标记出来，反之用红箭头来标记。</example>
+        <english_equivalent>otherwise</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c150" word="非但">
+    <orths>
+      <orth type="cont" canonical="1" onr="13o1">
+        <part type="single">非但</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Equivalence"/>
+        <example>非但假没请成，还被老师批评了一顿。</example>
+        <english_equivalent>not only</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c151" word="苟">
+    <orths>
+      <orth type="cont" canonical="1" onr="14o1">
+        <part type="single">苟</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg1-as-cond"/>
+        <example>苟富贵，无相忘。</example>
+        <english_equivalent>if</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c152" word="固然…但是…">
+    <orths>
+      <orth type="cont" canonical="1" onr="15o1">
+        <part type="single">固然…但是…</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+        <example>工作固然很忙,但还是可以抽出一些时间来的</example>
+        <english_equivalent>although…but…</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c153" word="故">
+    <orths>
+      <orth type="cont" canonical="1" onr="16o1">
+        <part type="single">故</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+        <example>夫秦无道，故 沛公得至此。——《史记·留侯世家》</example>
+        <english_equivalent>therefore</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c154" word="故此">
+    <orths>
+      <orth type="cont" canonical="1" onr="17o1">
+        <part type="single">故此</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+        <example>他总是用一些无聊的问题来烦我，故此我让他走开。</example>
+        <english_equivalent>therefore</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c155" word="故而">
+    <orths>
+      <orth type="cont" canonical="1" onr="18o1">
+        <part type="single">故而</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+        <example>他没有恋爱经验，故而缺乏跟异往的技巧。</example>
+        <english_equivalent>therefore</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c156" word="还是">
+    <orths>
+      <orth type="cont" canonical="1" onr="19o1">
+        <part type="single">还是</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Disjunction"/>
+        <example>你想碌碌无为过一生，还是愿意挑战一把放手一搏？</example>
+        <english_equivalent>or</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c157" word="换言之">
+    <orths>
+      <orth type="cont" canonical="1" onr="20o1">
+        <part type="single">换言之</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Equivalence"/>
+        <example>旅馆出售的是服务而不是产品，换言之，服务就是旅馆产品。</example>
+        <english_equivalent>in other words</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c158" word="或许">
+    <orths>
+      <orth type="cont" canonical="1" onr="21o1">
+        <part type="single">或许</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Instantiation:Arg2-as-instance"/>
+        <example>她可能发生了什么事，或许遭到了什么意外。</example>
+        <english_equivalent>perhaps</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c159" word="即或">
+    <orths>
+      <orth type="cont" canonical="1" onr="22o1">
+        <part type="single">即或</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
+        <example>即或他整年远离英国，有时仍被视为英国境内的居民。</example>
+        <english_equivalent>even if</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c160" word="即令">
+    <orths>
+      <orth type="cont" canonical="1" onr="23o1">
+        <part type="single">即令</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
+        <example>墙壁上只有一个碗口大的通气孔，即令在白天也要点上油灯照明</example>
+        <english_equivalent>even if</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c161" word="即如">
+    <orths>
+      <orth type="cont" canonical="1" onr="24o1">
+        <part type="single">即如</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Instantiation:Arg2-as-instance"/>
+        <example>人一生下来，就收人事关系的种种限制。即如他所在的家庭、学校、社会，都能影响他、支配他、约束他。</example>
+        <english_equivalent>as</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c162" word="既…也…">
+    <orths>
+      <orth type="cont" canonical="1" onr="25o1">
+        <part type="single">既…也…</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="25o2">
+        <part type="single">既是…也是…</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+        <example>与同时一起度假玩耍，既放松自己，也增强团结。</example>
+        <english_equivalent>both…and…</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c163" word="既是…又是…">
+    <orths>
+      <orth type="cont" canonical="1" onr="26o1">
+        <part type="single">既是…又是…</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+        <example>美国信贷的繁荣与萧条既是拜亚洲的过量储蓄所赐，又是要归咎于国内的过量消费。</example>
+        <english_equivalent>both…and…</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c164" word="既然…那么..">
+    <orths>
+      <orth type="cont" canonical="1" onr="27o1">
+        <part type="single">既然…那么..</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason"/>
+        <example>既然你那么讨厌我，那么你就不要再来找我了。</example>
+        <english_equivalent>since…then…</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c165" word="加之">
+    <orths>
+      <orth type="cont" canonical="1" onr="28o1">
+        <part type="single">加之</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>prep</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+        <example>我国老龄人口超过1.38亿，大约90％的老人是居家养老，加之“二孩”政策的落地，育婴问题更加突出。</example>
+        <english_equivalent>besides</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c166" word="假若">
+    <orths>
+      <orth type="cont" canonical="1" onr="29o1">
+        <part type="single">假若</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg1-as-cond"/>
+        <example>假若不是痴心相信，是無法堅持到底的</example>
+        <english_equivalent>if</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c167" word="就是说">
+    <orths>
+      <orth type="cont" canonical="1" onr="30o1">
+        <part type="single">就是说</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg2-as-detail"/>
+        <example>人类社会要存在和发展，首先必须具有人类赖以生存的条件，就是说，必须具有衣、食、住、行等所需要的一切物质生活资料。</example>
+        <english_equivalent>namely</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c168" word="具体来说">
+    <orths>
+      <orth type="cont" canonical="1" onr="31o1">
+        <part type="single">具体来说</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="31o2">
+        <part type="single">具体来讲</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg2-as-detail"/>
+        <example>管理模式是指管理活动的标准样，具体来说是指管理的基本思想和样式。</example>
+        <english_equivalent>to be specific</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c169" word="可见">
+    <orths>
+      <orth type="cont" canonical="1" onr="32o1">
+        <part type="single">可见</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause+Belief:Result+Belief"/>
+        <example>这种大规模宣传的费用，一定非常可观，可见这背后自有主持的人。</example>
+        <english_equivalent>it is (thus) clear</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c170" word="况且">
+    <orths>
+      <orth type="cont" canonical="1" onr="33o1">
+        <part type="single">况且</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+        <example>这书内容好,况且又不贵,你买一本吧</example>
+        <english_equivalent>furthermore</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c171" word="免得">
+    <orths>
+      <orth type="cont" canonical="1" onr="34o1">
+        <part type="single">免得</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Negative-condition:Arg1-as-negCond"/>
+        <example>还是先去给他们报个信吧，免得他们着急。</example>
+        <english_equivalent>so as to avoid</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c172" word="乃至">
+    <orths>
+      <orth type="cont" canonical="1" onr="35o1">
+        <part type="single">乃至</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="35o2">
+        <part type="single">乃至于</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+        <example>如果无产阶级政党却表现优柔寡断，便将导致坐失良机，乃至毁灭自己的党。</example>
+        <english_equivalent>and even</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c173" word="宁可">
+    <orths>
+      <orth type="cont" canonical="1" onr="36o1">
+        <part type="single">宁可</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Substitution:Arg2-as-subst"/>
+        <example>这位年轻人宁可上前线，也不愿意待在家里。</example>
+        <english_equivalent>rather</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c174" word="其后">
+    <orths>
+      <orth type="cont" canonical="1" onr="37o1">
+        <part type="single">其后</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Asynchronous:Precedence"/>
+        <example>在美国他获得极大成功，其后他们还被邀在总统府白宫演出。</example>
+        <english_equivalent>subsequently</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c175" word="岂但">
+    <orths>
+      <orth type="cont" canonical="1" onr="38o1">
+        <part type="single">岂但</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+        <example>只要踏上这片土地，就会感到一种敞襟的舒畅。岂但目不暇给，而且耳不胜闻。</example>
+        <english_equivalent>not only</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c176" word="且">
+    <orths>
+      <orth type="cont" canonical="1" onr="39o1">
+        <part type="single">且</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+        <example>非公企业一般规模小、人数少，且80%以上分布在县级以下。</example>
+        <english_equivalent>and</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c177" word="然">
+    <orths>
+      <orth type="cont" canonical="1" onr="40o1">
+        <part type="single">然</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast"/>
+        <example>著书立说，志在立言。然传世与否，实在难说。</example>
+        <english_equivalent>however</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c178" word="然则">
+    <orths>
+      <orth type="cont" canonical="1" onr="41o1">
+        <part type="single">然则</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast"/>
+        <example>进行扩大再生产，本无可厚非，然则无论什么事情都有个度，超过了一定的度，事情就会向相反方向发展。</example>
+        <english_equivalent>however</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c179" word="任凭">
+    <orths>
+      <orth type="cont" canonical="1" onr="42o1">
+        <part type="single">任凭</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
+        <example>任凭你怎样说,事实就是事实。</example>
+        <english_equivalent>No matter what</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c180" word="仍是">
+    <orths>
+      <orth type="cont" canonical="1" onr="43o1">
+        <part type="single">仍是</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast"/>
+        <example>他爬起来，满身的雪顾不得拍打，腿摔疼了也不顾揉搓，仍是没命地跑。</example>
+        <english_equivalent>still</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c181" word="如">
+    <orths>
+      <orth type="cont" canonical="1" onr="44o1">
+        <part type="single">如</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg1-as-cond"/>
+        <example>如有不妥，请予指正。</example>
+        <english_equivalent>if</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c182" word="如其">
+    <orths>
+      <orth type="cont" canonical="1" onr="45o1">
+        <part type="single">如其</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg1-as-cond"/>
+        <example>如其克谐,天下可定也。——《资治通鉴》</example>
+        <english_equivalent>if</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c183" word="如若">
+    <orths>
+      <orth type="cont" canonical="1" onr="46o1">
+        <part type="single">如若</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg1-as-cond"/>
+        <example>如若一意孤行，必将重蹈覆辙。</example>
+        <english_equivalent>if</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c184" word="若">
+    <orths>
+      <orth type="cont" canonical="1" onr="47o1">
+        <part type="single">若</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg1-as-cond"/>
+        <example>若不是我亲眼所见，实在难以相信。</example>
+        <english_equivalent>if</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c185" word="若非">
+    <orths>
+      <orth type="cont" canonical="1" onr="48o1">
+        <part type="single">若非</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason"/>
+        <example>若非一些银行相关人员“有意无意”放水入市，企业不会轻易得手。</example>
+        <english_equivalent>were it not for</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c186" word="若果">
+    <orths>
+      <orth type="cont" canonical="1" onr="49o1">
+        <part type="single">若果</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg1-as-cond"/>
+        <example>若果他在场,事情就难办了。</example>
+        <english_equivalent>if</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c187" word="尚且">
+    <orths>
+      <orth type="cont" canonical="1" onr="50o1">
+        <part type="single">尚且</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISION:Concession:Arg1-as-denier"/>
+        <example>古人尚且如此想得开，今人又何须为几茎落发感叹不已。</example>
+        <english_equivalent>even</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c188" word="设若">
+    <orths>
+      <orth type="cont" canonical="1" onr="51o1">
+        <part type="single">设若</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg1-as-cond"/>
+        <example>设若单单是有阳光,那也算不了出奇。</example>
+        <english_equivalent>if</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c189" word="甚而">
+    <orths>
+      <orth type="cont" canonical="1" onr="52o1">
+        <part type="single">甚而</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+        <example>时间长了,我甚而连他的名字也给忘了。</example>
+        <english_equivalent>even</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c190" word="实则">
+    <orths>
+      <orth type="cont" canonical="1" onr="53o1">
+        <part type="single">实则</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast"/>
+        <example>她嘴上挺厉害,实则有一副菩萨心肠</example>
+        <english_equivalent>in fact</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c191" word="虽">
+    <orths>
+      <orth type="cont" canonical="1" onr="54o1">
+        <part type="single">虽</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
+        <example>虽不能至，心向往之。</example>
+        <english_equivalent>even if</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c192" word="虽说">
+    <orths>
+      <orth type="cont" canonical="1" onr="55o1">
+        <part type="single">虽说</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
+        <example>我们虽说有经验，但还得学习新东西。</example>
+        <english_equivalent>although</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c193" word="虽则">
+    <orths>
+      <orth type="cont" canonical="1" onr="56o1">
+        <part type="single">虽则</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
+        <example>人物的形象虽则古拙，但自具一种朴厚的作风。</example>
+        <english_equivalent>although</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c194" word="倘">
+    <orths>
+      <orth type="cont" canonical="1" onr="57o1">
+        <part type="single">倘</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg1-as-cond"/>
+        <example>倘一小节中有三个音，则第一音最强，第二第三两音皆弱。</example>
+        <english_equivalent>if</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c195" word="倘使">
+    <orths>
+      <orth type="cont" canonical="1" onr="58o1">
+        <part type="single">倘使</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg1-as-cond"/>
+        <example>倘使错过这个机会,你会后悔的。</example>
+        <english_equivalent>if</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c196" word="万一">
+    <orths>
+      <orth type="cont" canonical="1" onr="59o1">
+        <part type="single">万一</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg2-as-cond"/>
+        <example>再见一面也好，万一他去了以后就不回来了呢？</example>
+        <english_equivalent>in case</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c197" word="万一…就…">
+    <orths>
+      <orth type="cont" canonical="1" onr="60o1">
+        <part type="single">万一…就…</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg1-as-cond"/>
+        <example>万一检查出什么问题，医院就会通知我家里。</example>
+        <english_equivalent>in case</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c198" word="万一…也…">
+    <orths>
+      <orth type="cont" canonical="1" onr="61o1">
+        <part type="single">万一…也…</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg1-as-cond"/>
+        <example>万一被奶奶看见了，我也得挨批评</example>
+        <english_equivalent>in case</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c199" word="惟其">
+    <orths>
+      <orth type="cont" canonical="1" onr="62o1">
+        <part type="single">惟其</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Reason"/>
+        <example>惟其他还幼小,所以要多帮助他</example>
+        <english_equivalent>because</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c200" word="惟有">
+    <orths>
+      <orth type="cont" canonical="1" onr="63o1">
+        <part type="single">惟有</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Exception:Arg2-as-excpt"/>
+        <example>我们都很高兴,惟有他沉着脸</example>
+        <english_equivalent>only</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c201" word="无论如何">
+    <orths>
+      <orth type="cont" canonical="1" onr="64o1">
+        <part type="single">无论如何</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg2-as-denier"/>
+        <example>山区条件艰苦，财政困难，无论如何竞争不过经济发达的地区。</example>
+        <english_equivalent>in any case</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c202" word="毋宁">
+    <orths>
+      <orth type="cont" canonical="1" onr="65o1">
+        <part type="single">毋宁</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Contrast"/>
+        <example>与其睡懒觉，毋宁早起散步。</example>
+        <english_equivalent>rather… than</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c203" word="要不">
+    <orths>
+      <orth type="cont" canonical="1" onr="66o1">
+        <part type="single">要不</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="66o2">
+        <part type="single">要不然</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Negative-condition:Arg1-as-negCond"/>
+        <example>必须赶快腾地下种，要不就误了下一季的收成。</example>
+        <english_equivalent>otherwise</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c204" word="要不是">
+    <orths>
+      <orth type="cont" canonical="1" onr="67o1">
+        <part type="single">要不是</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Negative-condition:Arg1-as-negCond"/>
+        <example>要不是今天在办公室遇到了出乎意料的麻烦，我早就回家了。</example>
+        <english_equivalent>were it not for</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c205" word="要么">
+    <orths>
+      <orth type="cont" canonical="1" onr="68o1">
+        <part type="single">要么</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="68o2">
+        <part type="single">要么…要么…</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Disjunction"/>
+        <example>要么战胜困难,要么被困难压倒</example>
+        <english_equivalent>(either)...or…</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c206" word="要是">
+    <orths>
+      <orth type="cont" canonical="1" onr="69o1">
+        <part type="single">要是</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg1-as-cond"/>
+        <example>你要是没有时间来的话,我可以去找你</example>
+        <english_equivalent>if</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c207" word="一边…一边…">
+    <orths>
+      <orth type="cont" canonical="1" onr="70o1">
+        <part type="single">一边…一边…</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="70o2">
+        <part type="single">边…边…</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Synchronous"/>
+        <example>她一边听收音机，一边织毛衣。</example>
+        <english_equivalent>while…while…</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c208" word="以至">
+    <orths>
+      <orth type="cont" canonical="1" onr="71o1">
+        <part type="single">以至</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+        <example>我们渴望简单，却时常把简单的问题搞复杂，以至最后弄得自己一头雾水。</example>
+        <english_equivalent>so that</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c209" word="以致">
+    <orths>
+      <orth type="cont" canonical="1" onr="72o1">
+        <part type="single">以致</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+        <example>猫妈妈不顾危险把宝宝救出，以致身上多处烧伤。</example>
+        <english_equivalent>so that</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c210" word="以致于">
+    <orths>
+      <orth type="cont" canonical="1" onr="73o1">
+        <part type="single">以致于</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+        <example>昨晚着凉了，以致于又拉肚子了。</example>
+        <english_equivalent>so that</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c211" word="抑或">
+    <orths>
+      <orth type="cont" canonical="1" onr="74o1">
+        <part type="single">抑或</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Disjunction"/>
+        <example>在你悲伤的时候,我能做的,就是陪在你身边,抑或陪着你哭。</example>
+        <english_equivalent>or</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c212" word="抑或是">
+    <orths>
+      <orth type="cont" canonical="1" onr="75o1">
+        <part type="single">抑或是</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Disjunction"/>
+        <example>如果有空，在群山环绕的阳台上享用一份精心准备的瑞士早餐，抑或是去雪山上来一场激动人心的滑雪。</example>
+        <english_equivalent>or</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c213" word="由此">
+    <orths>
+      <orth type="cont" canonical="1" onr="76o1">
+        <part type="single">由此</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+        <example>人际关系冷漠，劳动分工明确，由此产生了许多专门的职业。</example>
+        <english_equivalent>hereby</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c214" word="由此可见">
+    <orths>
+      <orth type="cont" canonical="1" onr="77o1">
+        <part type="single">由此可见</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause+Belief:Result+Belief"/>
+        <example>他们能记住那些实际上并不重要的人，由此可见他们的面孔识别能力确实超出常人。</example>
+        <english_equivalent>hence one can see that…</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c215" word="与此同时">
+    <orths>
+      <orth type="cont" canonical="1" onr="78o1">
+        <part type="single">与此同时</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="TEMPORAL:Synchronous"/>
+        <example>甲板上，母亲呼喊着号子并掌着舵，与此同时父亲撑篙防止船靠岸。</example>
+        <english_equivalent>meanwhile</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c216" word="与其…不如">
+    <orths>
+      <orth type="cont" canonical="1" onr="79o1">
+        <part type="single">与其…不如</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="79o2">
+        <part type="single">与其说…不如说…</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Substitution:Arg2-as-subst"/>
+        <example>与其在这里等他,毋宁去找他更好。</example>
+        <english_equivalent>rather… than</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c217" word="越…越…">
+    <orths>
+      <orth type="cont" canonical="1" onr="80o1">
+        <part type="single">越…越…</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Condition:Arg1-as-cond"/>
+        <example>他越早知道，我们就越早甩掉这个案子。</example>
+        <english_equivalent>the more… the more…</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c218" word="再不">
+    <orths>
+      <orth type="cont" canonical="1" onr="81o1">
+        <part type="single">再不</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Negative-condition:Arg1-as-negCond"/>
+        <example>你一定要努力学习,再不就赶不上了。</example>
+        <english_equivalent>if not</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c219" word="一则…再则…">
+    <orths>
+      <orth type="cont" canonical="1" onr="82o1">
+        <part type="single">一则…再则…</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="82o2">
+        <part type="single">一则…二则…</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Conjunction"/>
+        <example>这杯酒，一则敬关心过我的领导，再则敬帮助过我的同事。</example>
+        <english_equivalent>for the first thing… for the second thing…</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c220" word="则">
+    <orths>
+      <orth type="cont" canonical="1" onr="83o1">
+        <part type="single">则</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+        <example>在乎的越多，则失去的越多。</example>
+        <english_equivalent>then</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c221" word="这就是说">
+    <orths>
+      <orth type="cont" canonical="1" onr="84o1">
+        <part type="single">这就是说</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>cco</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Equivalence"/>
+        <example>你问一个尼泊尔人是否同意你的见解，他点点头，这就是说他不同意。</example>
+        <english_equivalent>that is to say</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c222" word="这样一来">
+    <orths>
+      <orth type="cont" canonical="1" onr="85o1">
+        <part type="single">这样一来</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause:Result"/>
+        <example>把电压升高就像给水加压一样，这样一来就会使这个系统中能量的运动加快。</example>
+        <english_equivalent>as thus</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c223" word="纵然">
+    <orths>
+      <orth type="cont" canonical="1" onr="86o1">
+        <part type="single">纵然</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
+        <example>纵然你有好心肠，方法不好也枉然。</example>
+        <english_equivalent>even if</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c224" word="纵使">
+    <orths>
+      <orth type="cont" canonical="1" onr="87o1">
+        <part type="single">纵使</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="COMPARISON:Concession:Arg1-as-denier"/>
+        <example>只要高兴他们会随之随地过马路，纵使斑马线就在几米开外。</example>
+        <english_equivalent>even if</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c225" word="总体来说">
+    <orths>
+      <orth type="cont" canonical="1" onr="88o1">
+        <part type="single">总体来说</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="88o2">
+        <part type="single">总体来讲，总的来说</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>adv</cat>
+      <sem>
+        <pdtb3_relation sense="EXPANSION:Level-of-detail:Arg1-as-detai"/>
+        <example>加上每年还本付息的因素，总体来说 债务余额每年还是增长的。</example>
+        <english_equivalent>generally</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c226" word="足见">
+    <orths>
+      <orth type="cont" canonical="1" onr="89o1">
+        <part type="single">足见</part>
+      </orth>
+    </orths>
+    <syn>
+      <cat>csu</cat>
+      <sem>
+        <pdtb3_relation sense="CONTINGENCY:Cause+Belief:Result+Belief"/>
+        <example>一个幼时被视为"痴呆"的人竟有如此成就，足见早期教育有何等大的作用</example>
+        <english_equivalent>it serves to show</english_equivalent>
+      </sem>
+    </syn>
+  </entry>
 </dimlex>

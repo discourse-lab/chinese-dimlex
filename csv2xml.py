@@ -6,9 +6,9 @@ import sys
 from collections import defaultdict
 
 
-def main():
+def create_dict(csvf):
 
-    rows = csv.reader(codecs.open(sys.argv[1]), delimiter=',')
+    rows = csv.reader(codecs.open(csvf), delimiter=',')
     entries = defaultdict(list)
     for row in rows:
         entry, variation, rel, postag, en_trans, example = row
@@ -82,6 +82,32 @@ def main():
         
     doc.write('chinese_dimlex.xml', xml_declaration=True, encoding='utf-8', pretty_print=True)
 
+def merge_dicts(xmlone, xmltwo):
+
+    xmlp = etree.XMLParser(strip_cdata=False, resolve_entities=False, encoding='utf-8')
+    treeone = etree.parse(xmlone, parser=xmlp).getroot()
+    treetwo = etree.parse(xmltwo, parser=xmlp).getroot()
+    
+    root = etree.Element('dimlex')
+    doc = etree.ElementTree(root)
+    nodeid = 1
+    
+    for entry in treeone.findall('.//entry'):
+        entry.set('id', 'c%i' % nodeid)
+        nodeid += 1
+        root.append(entry)
+    for entry in treetwo.findall('.//entry'):
+        entry.set('id', 'c%i' % nodeid)
+        nodeid += 1
+        root.append(entry)
+    doc.write('merged_chinese_dimlex.xml', xml_declaration=True, encoding='utf-8', pretty_print=True)
+    
+    
+
+def main():
+
+    #create_dict(sys.argv[1])
+    merge_dicts(sys.argv[1], sys.argv[2])
     
 if __name__ == '__main__':
     main()
